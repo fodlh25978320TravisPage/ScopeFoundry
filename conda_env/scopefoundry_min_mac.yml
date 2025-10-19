@@ -55,3 +55,5 @@ dependencies:
   - jupyter-core==4.2.1
   - prompt-toolkit==1.0.9
   - pyqtgraph==0.10.0
+
+# Update: 2025-10-19
